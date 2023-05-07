@@ -244,15 +244,20 @@ Desenvolvimento da lista 2 em sala de aula.
         - ...
   - 1 prática: trabalho final
   - 1 conjunto de trabalhos
-    - T1 - 
-    - T2 - 
-    - T3 - 
-    - 
-    - 
-    - 
-    - 
-    
+    - T1 - x
+    - T2 - x
+    - T3 - x
+    - x
+    - x
+    - x
+    - x
 - nota final = (P1 + P2 + Prat. + Trabs.)/4
 
 Bosco apresenta sobre VSCode
 Larissa, Jhonatan e Bosco apresentam Selenium
+
+### Aula 16 - 26/04/23 - [....., .....]
+
+### Aula 17 - 01/05/23 - [....., .....]
+
+### Aula 18 - 03/05/23 - [....., .....]

@@ -55,3 +55,18 @@
 | drawCircle(x, y, raio) | Desenha um círculo. | x e y - coordenadas do centro; raio - raio do círculo. |
 
 ## x
+
+> João Luiz de Almeida Filho
+> Criado em: 19 de abr.19 de abr.
+> Material suplementar para estudo para a P1:
+>
+> - [Test case prioritization](https://www.browserstack.com/guide/test-case-prioritization)
+> - [Software testers mindset](https://softwaretester.careers/the-software-testers-mindset/)
+> - [Test prioritization](https://www.professionalqa.com/test-prioritization)
+> - [Think like a tester](https://medium.com/@blakenorrish/how-to-think-like-a-tester-7a174ff6aeaf)
+> - [White box testing](https://www.softwaretestinghelp.com/white-box-testing-techniques-with-example/)
+> - [Quality Assurance](https://www.guru99.com/all-about-quality-assurance.html)
+> - [Test Oracles](https://ecomputernotes.com/software-engineering/what-are-test-oracles)
+> - [Black box](https://www.guru99.com/black-box-testing.html)
+> - [White box](https://www.guru99.com/white-box-testing.html)
+> - [Grey box](https://www.guru99.com/grey-box-testing.html)
