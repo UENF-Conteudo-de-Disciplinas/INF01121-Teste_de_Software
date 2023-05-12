@@ -256,8 +256,104 @@ Desenvolvimento da lista 2 em sala de aula.
 Bosco apresenta sobre VSCode
 Larissa, Jhonatan e Bosco apresentam Selenium
 
-### Aula 16 - 26/04/23 - [....., .....]
+## Aula 16 - 26/04/23 - [....., .....]
 
-### Aula 17 - 01/05/23 - [....., .....]
+## Aula 17 - 01/05/23 - [....., .....]
 
-### Aula 18 - 03/05/23 - [....., .....]
+## Aula 18 - 03/05/23 - [....., .....]
+
+## Aula 19 - 08/05/23 - Faltei
+
+## Aula 20 - 10/05/23 - [....., .....]
+
+### Slide X
+
+#### Risco de projeto
+
+ O risco do projeto pode ser definido como um evento ou atividade incerta que pode impactar o andamento do projeto.
+
+3 Categorias:
+
+- Risco organizacional
+  - Não aceitação do projeto
+- Risco técnico
+- Risco de negócios
+  - Acabar dinheiro
+  - Risco de plágio
+
+#### Risco Organizacional
+
+É um risco relacionado ao seu *recurso humano* ou à sua equipe de teste.
+Ex.:
+
+- Falta de membros tecnicamente qualificados é um risco.
+- Falta de mão de obra suficiente para concluir o projeto no prazo.
+
+##### Como mitigar o risco organizacional
+
+Um auto-teste
+
+1. Esta é uma equipe bem organizada? (Sim/Não)
+2. Cada membro da equipe tem habilidade para fazer seu trabalho?
+3. ...
+
+#### Risco técnico
+
+Risco técnico é a probabilidade de perda incorrida...
+
+#### Risco de negócio
+
+O risco envolve uma entidade externa. É o risco que pode vir da sua empresa, do seu cliente, ...
+
+#### Como mitigar os riscos de projeto?
+
+- Defina *prioridade* para as fases de teste,
+  a. Concentre-se em testar os principais recursos do sistema.
+- Utilize *ferramentas de teste* (automatizados) para aumetnar a produtividade dos testes.
+  a. Qual a vantagem do teste automatizado?
+
+#### Risco do produto
+
+*O risco do produto* é a possibilidade de que o sistema ou software não satisfaça ou atenda às expectativas do cliente, usuário ou parte interessada. Está relacionado à funcionalidade do produto, como problemas de desempenho, problemas de segurança, cenários de falha, ...
+
+IMAGEM
+
+---
+
+exemplos ...
+
+...
+
+#### Como analisar o impacto da ocorrência do risco?
+
+Cada risco deve ser classificado com base nos dois parâmetros a seguir
+
+- A *probabilidade* de ocorrência
+- O *impacto* no projeto
+
+#### Categorizando a a probabilidade da ocorrência de um risco
+
+Usando a matriz abaixo, você pode categorizar o risco em três categorias como "alto", "médio", "baixo" ou valores "3", "2", "1".
+
+| Nível | Impacto |
+|-|-|
+| Alto (3)  | Não é possível continuar com a atividade do projeto se ela não for resolvida *imediatamente*. |
+| Médio (2) | Não é possível continuar a atividade do projeto se ela não for resolvida |
+| Baixo (1) | ... |
+
+#### Análise do impacto da ocorrência de um risco
+
+| Risco | Probabilidade | Impacto | Prioridade = Probabilidade * Impacto |
+|-|-|-|-|
+| ... | 3 | 3 | 9 |
+| ... | 1 | 2 | 2 |
+
+#### Priorizando o que é importante
+
+Com base na prioridade acima você pode realizar a Mitigação de Riscos em Testes ou contramedidas mencionadas na tabela abaixo
+
+TABELA
+
+#### Suas contramedidas contra o risco
+
+Próxima aula
