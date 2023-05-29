@@ -31,7 +31,7 @@ Ele perguntou o que queremos que ele dê
 > Criado em: 14 de mar.14 de mar.
 > Turma, continuo doente. A aula de amanhã está suspensa.
 
-## Aula 5 - 20/03/23 - [10h15, .....] -
+## Aula 5 - 20/03/23 - [10h15, 11h57] -
 
 ### Comentários sobre a lista 1
 
@@ -183,9 +183,7 @@ O software hoje é um serviço.
 
 ### Referências
 
-## Aula 8 - 29/03/23 - [10h54, 11h..] - Cheguei tarde, a porta estava trancada
-
-...
+## Aula 8 - 29/03/23 - [10h54, .....] - Cheguei tarde, a porta estava trancada
 
 ## Aula 9 - 03/04/23 - [10h20, 11h20] - apresentação de trabalhos
 
@@ -233,7 +231,7 @@ Desenvolvimento da lista 2 com testes de software em sala de aula.
 
 Desenvolvimento da lista 2 em sala de aula.
 
-## Aula 15 - 24/04/23 - [10h09, ]
+## Aula 15 - 24/04/23 - [10h09, 11h28]
 
 - 4 avaliações
   - 2 provas teóricas:
@@ -256,15 +254,15 @@ Desenvolvimento da lista 2 em sala de aula.
 Bosco apresenta sobre VSCode
 Larissa, Jhonatan e Bosco apresentam Selenium
 
-## Aula 16 - 26/04/23 - [....., .....]
+## Aula 16 - 26/04/23 - [....., .....] - ?
 
-## Aula 17 - 01/05/23 - [....., .....]
+## Aula 17 - 01/05/23 - [....., .....] - ?
 
-## Aula 18 - 03/05/23 - [....., .....]
+## Aula 18 - 03/05/23 - [10h41, .....] - Prova, cheguei atrasado, não pude fazer
 
 ## Aula 19 - 08/05/23 - Faltei
 
-## Aula 20 - 10/05/23 - [....., .....]
+## Aula 20 - 10/05/23 - [10h24, 11h29]
 
 ### Slide X
 
@@ -335,18 +333,18 @@ Cada risco deve ser classificado com base nos dois parâmetros a seguir
 
 Usando a matriz abaixo, você pode categorizar o risco em três categorias como "alto", "médio", "baixo" ou valores "3", "2", "1".
 
-| Nível | Impacto |
-|-|-|
+| Nível     | Impacto                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------- |
 | Alto (3)  | Não é possível continuar com a atividade do projeto se ela não for resolvida *imediatamente*. |
-| Médio (2) | Não é possível continuar a atividade do projeto se ela não for resolvida |
-| Baixo (1) | ... |
+| Médio (2) | Não é possível continuar a atividade do projeto se ela não for resolvida                      |
+| Baixo (1) | ...                                                                                           |
 
 #### Análise do impacto da ocorrência de um risco
 
 | Risco | Probabilidade | Impacto | Prioridade = Probabilidade * Impacto |
-|-|-|-|-|
-| ... | 3 | 3 | 9 |
-| ... | 1 | 2 | 2 |
+| ----- | ------------- | ------- | ------------------------------------ |
+| ...   | 3             | 3       | 9                                    |
+| ...   | 1             | 2       | 2                                    |
 
 #### Priorizando o que é importante
 
@@ -357,3 +355,20 @@ TABELA
 #### Suas contramedidas contra o risco
 
 Próxima aula
+
+## Aula 21 - 15/05/23 - [10h15, 11h24]
+
+### Slide (21)
+
+CI/CD
+
+- João esqueceu legal o trabalho de git e apresentação da parte gráfica
+- ele comentou algo sobre antes de eu chegar?
+
+[10:41, 15/05/2023] João Vítor Fernandes Dias: Jira; Assembla; YouTrack
+[10:44, 15/05/2023] João Vítor Fernandes Dias: Clickup
+[11:22, 15/05/2023] João Vítor Fernandes Dias: João tá em dúvida se fala sobre metodologias ágeis
+
+## Aula 22 - 17/05/23 - Não teve aula
+
+## Aula 23 - 22/05/23 - Semana 12 - [....., .....] - Apresentação Git + Visual
