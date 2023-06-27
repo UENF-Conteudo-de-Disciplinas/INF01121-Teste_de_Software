@@ -372,3 +372,154 @@ CI/CD
 ## Aula 22 - 17/05/23 - Não teve aula
 
 ## Aula 23 - 22/05/23 - Semana 12 - [....., .....] - Apresentação Git + Visual
+
+## Aula 24 - 26/05/23 - Semana 13 - Faltei
+
+## Aula 25 - 29/05/23 - Semana 13 - Faltei
+
+## Aula 26 - 31/05/23 - Semana 13 - Faltei
+
+## Aula 27 - 05/06/23 - Semana 15? - [10h19, 11h48]
+
+- Apresentação de João Vítor Fernandes Dias (eu) sobre como usei um tutorial de criação de servidor de Minecraft para poder criar a aplicação dessa disciplina.
+  - E também, como fizemos a Continuous Integration do Servidor da Oracle com o GitHub Actions
+
+### Off-Topic 27
+
+- Contagem de "mal cheiro": 4
+
+### Slide - Extreme Programming
+
+#### O que é?
+
+#### Quando é aplicável?
+
+- Projetos cujos requisitos são vagos e mudam com frequência
+- Desenvolvimento de sistemas orientados a objetos
+- ...
+
+#### Valores
+
+##### Objetivo e Características
+
+###### Objetivo
+
+Assegurar que o cliente receba o máximo de valor de cada dia de trabalho da equipe de desenvolvimento.
+
+###### Características
+
+- Reuniões diárias com os clientes
+- Planejamentos simples para decidir o que deve ser feito
+- Versões totalmente integradas que passam em todos os testes definidos pelos clientes
+
+- Dito em aula:
+  - Outra coisa importante para o eXtreme Programming é a existência de:
+    - Várias reuniões
+    - Quadro branco
+      - Essas duas coisas servem para ajudar o desenvolvedor a explicar ao cliente o que está sendo feito
+    - Existência de vários testes para evitar que o código atualizado quebre em alguma parte
+
+##### Comunicação
+
+> A comunicação entre o cliente e a equipe permite que todos os detalhes do projeto sejam tratados com a atençãoe a agilidade com a atenção e a agilidade que merecem.
+
+- Reuniões presenciais (diárias, ou na maior frequência possível)
+- Quadro branco
+- Vocabulário inclusivo
+
+##### Simplicidade
+
+> É necessário que a equipe compreenda e utilize o valor da simplicidade, que nos ensina a implementar apenas aquilo que é suficiente para atender a cada necessidade do cliente.
+
+- Evite especular sobre as necessidades dos clientes
+
+<!-- Imagem -->
+
+Fazer apenas as coisas absolutamente necessárias, como manter o design do sistema o mais simples possível, para facilitar a manutenção, o suporte...
+
+##### Coragem
+
+> A equipe precisa ser corajosa e acreditar que, utilizando as práticas e valores do XP, será capaz de fazer o software evoluir com segurança e agilidade.
+
+##### Opinião (Feedback)
+
+Por meio de feedback constante sobre seus esforços anteriores, as equipes podem identificar ...
+
+##### Respeito
+
+Os membros de sua equipe precisam respeitar uns aos outros para se comunicarem, fornecer e aceitar feedback que honre seu relacionamento e trabalhem juntos para identificar e soluções simples.
+
+<!-- Imagem -->
+
+#### Práticas
+
+...
+
+##### Cliente presente
+
+O XP trabalha com a premissa de que o cliente deve conduzir o desenvolvimento a partir do feedback que recebe do sistema;
+
+A presença do cliente viabiliza a simplicidade...
+
+##### Jogo do planejamento
+
+Todo o projeto em XP é dividido em releases (entregas) e iterações;
+
+- O Jogo do Planejamento é uma reunião onde o cliente avalia as funcionalidades que devem ser implementadas e prioriza aquelas que farão parte da próxima release ou da próxima iteração;
+- No início de cada release e de interação ocorre o Jogo do Planejamento;
+- No XP as funcionalidades são descritas em pequenos cartões e são chamados de Estórias.
+
+---
+
+<!-- Imagem -->
+O estado da arte das metodologias de desenvolvimento é "safe"
+
+---
+
+#### Estórias do Usuário
+
+<!-- Imagem -->
+
+---
+
+#### Stand Up Meeting
+
+A equipe de desenvolvimento deve se reunir a cada manhã para avaliar ...
+
+#### Programação em Par
+
+**No XP os programadores implementam as funcionalidades em pares.**
+
+Esta prática permite que o código seja revisado permanentemente, enquanto é construído.
+A prática também tem o objetivo de trazer soluções mais simples e eficazes, pois os programadores se complementam.
+
+#### Desenvolvimento guiado por testes
+
+- Entrega contínua
+- Integração contínua
+- Refatoração
+
+<!-- Imagem -->
+
+##### Integração Contínua
+
+<!-- Imagem -->
+
+- Efetuada diversas vezes ao dia
+- Ferramentas de automatização de build e teste
+- Todos são responsáveis por manter o software funcionando
+- Resolução de integração problema deve ser prioridade
+- Testes de integração
+  - Estágios
+    - Seria criar diversos pacotes de testes para que cada um deles tenham graus diferentes de importância. Isso permitiria por exemplo rodar apenas os testes que garantam que a aplicação rodaria sem problemas, e outras como por exemplo testes de sintaxe e normas fossem secundárias.
+  - Completo
+    - O teste de integração completo seria rodar todos os testes de uma vez só, mesmo que isso demore muito.
+
+##### Código Coletivo
+
+## Aula 28 - 07/06/23 - Semana 13 - Faltei - Chegar mais cedo
+
+## Aula 29 - 12/06/23 - Semana 15 - [10h10, 11h38]
+
+Possível teste surpresa.
+Dojo
