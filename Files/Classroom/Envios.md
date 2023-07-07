@@ -48,11 +48,11 @@
 
 #### Tabela 1
 
-| Função | Descrição | Variáveis |
-|------|-----------|---|
-| drawLine(x1, y1, x2, y2) | Desenha uma linha. | x1 e y1 - coordenadas do ponto de origem; x2 e y2 - coordenadas do ponto de destino. |
-| drawRectangle(x, y, altura, largura) | Desenha um retângulo. | x e y - coordenadas do canto esquerdo superior; altura e largura do retângulo. |
-| drawCircle(x, y, raio) | Desenha um círculo. | x e y - coordenadas do centro; raio - raio do círculo. |
+| Função                               | Descrição             | Variáveis                                                                            |
+| ------------------------------------ | --------------------- | ------------------------------------------------------------------------------------ |
+| drawLine(x1, y1, x2, y2)             | Desenha uma linha.    | x1 e y1 - coordenadas do ponto de origem; x2 e y2 - coordenadas do ponto de destino. |
+| drawRectangle(x, y, altura, largura) | Desenha um retângulo. | x e y - coordenadas do canto esquerdo superior; altura e largura do retângulo.       |
+| drawCircle(x, y, raio)               | Desenha um círculo.   | x e y - coordenadas do centro; raio - raio do círculo.                               |
 
 ## x
 
@@ -70,3 +70,40 @@
 > - [Black box](https://www.guru99.com/black-box-testing.html)
 > - [White box](https://www.guru99.com/white-box-testing.html)
 > - [Grey box](https://www.guru99.com/grey-box-testing.html)
+
+## Notas finais
+
+Em anexo as notas.
+Lembre-se que a nota da P3 é a média dos trabalhos avulsos apresentados + trabalho final e essa será a nota lançada.
+
+As notas dos trabalhos podem variar entre os integrantes dos grupos de acordo com a presença nas apresentaçoes e distribuição de tarefa no trabalho.
+Qualquer dúvida e-mail.
+Boas férias
+
+### Por nome
+
+| Aluno                        | P1 (06/05/23) | P2 (21/06/23) | Média trabalhos | Trabalho Final | P3 = Média(Média trabalhos + Trabalho Final) | Média Final |
+| :--------------------------- | ------------: | ------------: | --------------: | -------------: | -------------------------------------------: | ----------: |
+| Daniel Brito dos Santos      |          10,0 |          10,0 |            10,0 |           10,0 |                                         10,0 |        10,0 |
+| Daniel de Faria Ferreira     |           8,8 |           6,0 |             8,7 |           10,0 |                                          8,3 |         8,0 |
+| Daniel Terra Gomes           |           9,2 |           8,0 |            10,0 |           10,0 |                                         10,0 |         8,1 |
+| Javier Ernesto Lopez de Real |           8,6 |           7,0 |             8,7 |            9,0 |                                          8,8 |         8,1 |
+| Jhonatan Alves               |           8,2 |           7,0 |             8,3 |            8,5 |                                          8,9 |         8,0 |
+| Joâo Bosco                   |           9,6 |           8,4 |             8,3 |            9,0 |                                          8,2 |         8,1 |
+| João Vitor                   |           9,0 |           7,0 |            10,0 |           10,0 |                                         10,0 |         8,7 |
+| José Lucio                   |           9,2 |           6,0 |             8,7 |            9,0 |                                          8,8 |         8,0 |
+| Larissa Ribeiro              |          10,0 |          10,0 |             8,3 |            8,5 |                                          8,9 |         8,6 |
+
+### Por nota
+
+| Aluno                        | P1 (06/05/23) | P2 (21/06/23) | Média trabalhos | Trabalho Final | P3 = Média(Média trabalhos + Trabalho Final) | Média Final |
+| :--------------------------- | ------------: | ------------: | --------------: | -------------: | -------------------------------------------: | ----------: |
+| Daniel Brito dos Santos      |          10,0 |          10,0 |            10,0 |           10,0 |                                         10,0 |        10,0 |
+| João Vitor                   |           9,0 |           7,0 |            10,0 |           10,0 |                                         10,0 |         8,7 |
+| Larissa Ribeiro              |          10,0 |          10,0 |             8,3 |            8,5 |                                          8,9 |         8,6 |
+| Daniel Terra Gomes           |           9,2 |           8,0 |            10,0 |           10,0 |                                         10,0 |         8,1 |
+| Javier Ernesto Lopez de Real |           8,6 |           7,0 |             8,7 |            9,0 |                                          8,8 |         8,1 |
+| Joâo Bosco                   |           9,6 |           8,4 |             8,3 |            9,0 |                                          8,2 |         8,1 |
+| Daniel de Faria Ferreira     |           8,8 |           6,0 |             8,7 |           10,0 |                                          8,3 |         8,0 |
+| Jhonatan Alves               |           8,2 |           7,0 |             8,3 |            8,5 |                                          8,9 |         8,0 |
+| José Lucio                   |           9,2 |           6,0 |             8,7 |            9,0 |                                          8,8 |         8,0 |
